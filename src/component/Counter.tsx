@@ -1,5 +1,5 @@
 const Counter = () => {
-  return <div>Hello Counter and other peplos</div>;
+  return <div />;
 };
 
 export default Counter;
